@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XXDM", "XXDM\XXDM.csproj", "{08A260B7-9684-4B27-9356-E92D2A8E4EF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DMTest", "DMTest\DMTest.csproj", "{2BA3D89C-C8BC-4D77-880C-19E3B6367278}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08A260B7-9684-4B27-9356-E92D2A8E4EF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A260B7-9684-4B27-9356-E92D2A8E4EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A260B7-9684-4B27-9356-E92D2A8E4EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A260B7-9684-4B27-9356-E92D2A8E4EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BA3D89C-C8BC-4D77-880C-19E3B6367278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BA3D89C-C8BC-4D77-880C-19E3B6367278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BA3D89C-C8BC-4D77-880C-19E3B6367278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BA3D89C-C8BC-4D77-880C-19E3B6367278}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F06F89B9-32E9-46FE-A08B-A7CDCF65C652}
+	EndGlobalSection
+EndGlobal
