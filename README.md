@@ -52,3 +52,7 @@ static void Main(string[] args)
 注册 大漠 dll 到 com
 
 资源在源码的 DLL 文件夹中
+
+## 交流
+
+[https://github.com/xxxxue/sponsors](https://github.com/xxxxue/sponsors)
